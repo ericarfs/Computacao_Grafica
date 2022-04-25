@@ -3,7 +3,7 @@
 
 ```mermaid
   graph TD;
-      Home[<a href='https://github.com/viniciussm07/pet-shop/blob/main/mockups/mockupCarrinhoDeCompras.png?raw=true' target='_blank' >Home</a>]---Cachorro;
+      Home[<a href='https://github.com/viniciussm07/pet-shop/blob/main/mockups/mockupCarrinhoDeCompras.png?raw=true'  target='blank_'>Home</a>]---Cachorro;
       Cachorro---produto1[Produto];
       
       Home---Gato;
