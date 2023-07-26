@@ -4,6 +4,7 @@
 - Para compilar: digite o comando **make** no terminal.
 - Para executar: digite o comando **make run** no terminal ou execute o arquivo **game.out**.
 
+## Demonstração
 [execucao.webm](https://github.com/ericarfs/Computacao_Grafica/assets/66982080/bdba0d0f-769b-44a4-a37d-8ff3a09d77d9)
 
 ## Apresentação
