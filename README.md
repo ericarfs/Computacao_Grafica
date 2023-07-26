@@ -5,7 +5,7 @@
 - Para executar: digite o comando **make run** no terminal ou execute o arquivo **game.out**.
 
 ## Demonstração
-[execucao.webm](https://github.com/ericarfs/Computacao_Grafica/assets/66982080/bdba0d0f-769b-44a4-a37d-8ff3a09d77d9)
+[demo.webm](https://github.com/ericarfs/Computacao_Grafica/assets/66982080/66a31fee-6909-42fa-af90-bf9d01315a59)
 
 ## Apresentação
 ![Alt text](https://github.com/ericarfs/Computacao_Grafica/blob/main/images/trabalho01CG_page-0001.jpg)
